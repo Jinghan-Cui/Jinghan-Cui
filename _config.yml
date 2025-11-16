@@ -1,0 +1,21 @@
+title: 智能优化控制
+description: Jinghan Cui · Intelligent Optimization & Control
+theme: minima
+
+author: Jinghan Cui
+email: jinghan0614@gmail.com
+github_username: Jinghan-Cui
+
+# 顶部导航栏中显示的页面
+header_pages:
+  - index.md
+  - publications.md
+  - projects.md
+  - people.md
+  - course.md
+
+markdown: kramdown
+timezone: Asia/Shanghai
+
+exclude:
+  - README.md
